@@ -6,6 +6,16 @@ using System.Threading.Tasks;
 
 namespace Abstract和Interface
 {
+    #region 接口
+    /// <summary>
+    /// 接口         【只有方法没有方法体】
+    /// 【派生基类中必须实现接口中的方法体   如 method1()和method2() 方法】
+    /// </summary>
+    public interface IClassInterface
+    {
+        void method1();
+        void method2();
+    }
     /// <summary>
     /// 普通类
     /// 继承接口类
@@ -21,25 +31,11 @@ namespace Abstract和Interface
         }
         public void method2() { Console.WriteLine("hello method2"); }
     }
-    /// <summary>
-    /// 普通类
-    /// 继承抽象类
-    /// </summary>
-    public class NormalClass2 : AbstractClass //NormalClass2 这个类继承自AbstractClass抽象类
-    {
-        public override void m()    //抽象类里面的这个m()方法只能确定方法名，具体里面的实现是不确定的所以写在抽象类中，在这个普通类里面写方法体
-        { }
-    }
-    /// <summary>
-    /// 接口         【只有方法没有方法体】
-    /// 【派生基类中必须实现接口中的方法体   如 method1()和method2() 方法】
-    /// </summary>
-    public interface IClassInterface
-    {
-        void method1();
-        void method2();
-    }
+    #endregion
+    
 
+
+    #region 抽象类
     /// <summary>
     /// 抽象类      【可实现方法体也可不实现方法体】
     /// 【实现方法体，被继承，那么普通类就像是一个继承了一个基类一样，不需要去写每个方法的方法体  如 method3()和method4() 方法】
@@ -59,9 +55,17 @@ namespace Abstract和Interface
             Console.Write("ddd");
         }
     }
-
-
-
+    /// <summary>
+    /// 普通类2
+    /// 继承抽象类
+    /// </summary>
+    public class NormalClass2 : AbstractClass //NormalClass2 这个类继承自AbstractClass抽象类
+    {
+        public override void m()    //抽象类里面的这个m()方法只能确定方法名，具体里面的实现是不确定的所以写在抽象类中，在这个普通类里面写方法体
+        { }
+    }
+    #endregion
+    
 
 
     #region 虚函数
@@ -113,8 +117,5 @@ namespace Abstract和Interface
             birdfly(fly2);
         }
     }
-    #endregion
-
-
-
+    #endregion    
 }
