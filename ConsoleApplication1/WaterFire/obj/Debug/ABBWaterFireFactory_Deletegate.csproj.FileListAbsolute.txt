@@ -1,0 +1,6 @@
+D:\Projects\ConsoleApplication1\WaterFire\bin\Debug\WaterFire.exe.config
+D:\Projects\ConsoleApplication1\WaterFire\bin\Debug\WaterFire.exe
+D:\Projects\ConsoleApplication1\WaterFire\bin\Debug\WaterFire.pdb
+D:\Projects\ConsoleApplication1\WaterFire\obj\Debug\ABBWaterFireFactory_Deletegate.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\WaterFire\obj\Debug\WaterFire.exe
+D:\Projects\ConsoleApplication1\WaterFire\obj\Debug\WaterFire.pdb

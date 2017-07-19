@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Projects\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Projects\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

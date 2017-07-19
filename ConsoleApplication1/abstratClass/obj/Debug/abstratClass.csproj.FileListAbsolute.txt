@@ -1,0 +1,6 @@
+D:\Projects\ConsoleApplication1\abstratClass\bin\Debug\abstratClass.exe.config
+D:\Projects\ConsoleApplication1\abstratClass\bin\Debug\abstratClass.exe
+D:\Projects\ConsoleApplication1\abstratClass\bin\Debug\abstratClass.pdb
+D:\Projects\ConsoleApplication1\abstratClass\obj\Debug\abstratClass.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\abstratClass\obj\Debug\abstratClass.exe
+D:\Projects\ConsoleApplication1\abstratClass\obj\Debug\abstratClass.pdb

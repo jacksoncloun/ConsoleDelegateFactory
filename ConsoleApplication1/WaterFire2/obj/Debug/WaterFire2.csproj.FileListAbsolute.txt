@@ -1,0 +1,6 @@
+D:\Projects\ConsoleApplication1\WaterFire2\bin\Debug\WaterFire2.exe.config
+D:\Projects\ConsoleApplication1\WaterFire2\obj\Debug\WaterFire2.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApplication1\WaterFire2\bin\Debug\WaterFire2.exe
+D:\Projects\ConsoleApplication1\WaterFire2\bin\Debug\WaterFire2.pdb
+D:\Projects\ConsoleApplication1\WaterFire2\obj\Debug\WaterFire2.exe
+D:\Projects\ConsoleApplication1\WaterFire2\obj\Debug\WaterFire2.pdb
