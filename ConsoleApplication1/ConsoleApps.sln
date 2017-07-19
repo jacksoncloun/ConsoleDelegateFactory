@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABBWaterFire2_Deletegate", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstratClass抽象函数抽象类", "abstratClass\abstratClass抽象函数抽象类.csproj", "{E90A1D0F-772B-46F4-9BFB-3CE72C8CFBB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract和Interface抽象类和接口", "Abstract和Interface\Abstract和Interface抽象类和接口.csproj", "{F11B017E-34C4-44E6-8C0D-CDB677E12C7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract和Interface抽象类和接口和虚函数", "Abstract和Interface\Abstract和Interface抽象类和接口和虚函数.csproj", "{F11B017E-34C4-44E6-8C0D-CDB677E12C7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
